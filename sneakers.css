@@ -1,0 +1,104 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+    margin: 0px;
+}
+
+header {
+  width: 100%;
+}
+
+nav{
+vertical-align: top;
+  display: inline-block;
+}
+
+
+ul{
+  display: inline-block;
+}
+
+li{
+color: orange;
+display: inline-block;
+padding: 5px 5px 5px 5px;
+margin: 2px;
+}
+
+h1 {
+  font-size: 2.0em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.1em;
+}
+
+.product {
+  width: 100%;
+  display: block;
+  background-color: #ff512f;
+}
+
+.product h1, .product h2, .product p {
+  color: white;
+}
+
+.product h3 {
+  color: black;
+}
+
+.productInfo {
+    max-width: 1024px;
+    margin: 0px auto;
+
+}
+
+#menuleft{
+  text-align: left;
+}
+
+#menuright {
+  text-align: right;
+}
+
+#prodImage {
+    align-content: center;
+}
+
+#prodimageinner {
+    max-width: 1024px;
+    margin: 0px auto;
+}
+
+#button {
+display: inline;
+  padding: 12px;
+  background-color: white;
+  color: #ff512f;
+  line-height: 1.4;"
+  width: 10%;
+}
+
+#prodDes {
+}
+
+#prodRec {
+
+}
+
+#prodRecInner {
+  align-content: center;
+  max-width: 1024px;
+  margin: 0px auto;
+}
+
+#RecHeadline {
+  text-align: center;
+    background-color: #ffeeeb;
+}
